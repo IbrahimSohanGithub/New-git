@@ -5,3 +5,5 @@ for i in range(10):
 def sum(a, b):
     print(a + b)
 sum(50,100)
+lambda1 = lambda a, b: a + b 
+print(lambda1(500, 120))
